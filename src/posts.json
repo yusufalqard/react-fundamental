@@ -1,0 +1,27 @@
+[
+    { 
+        "title": "How to be good person",
+        "date": "July 28th, 1898",
+        "tags": "social"
+    },
+    { 
+        "title": "Decision making in company",
+        "date": "April 3rd, 2005",
+        "tags":"business"
+    },
+    { 
+        "title": "How to start journey as Full Stack Web Developer",
+        "date": "Jan 28th, 2016",
+        "tags": "Programming"
+    },
+    {
+        "title": "Dark age of World",
+        "date": "Nov 3th, 2001",
+        "tags": "Historical"
+    },
+    {
+        "title": "Where is justice?",
+        "date": "Sep 28th, 1994",
+        "tags": "Political"
+    }
+]
